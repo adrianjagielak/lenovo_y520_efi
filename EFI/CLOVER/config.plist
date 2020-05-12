@@ -163,17 +163,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>FullTitle</key>
-					<string>macOS 10.14</string>
+					<string>macOS 10.15</string>
 					<key>Ignore</key>
 					<false/>
 					<key>NoCaches</key>
 					<false/>
 					<key>Path</key>
-					<string>\71DF27B6-13E2-48C1-A4C9-E79BD54CADF8\System\Library\CoreServices\boot.efi</string>
+					<string>\0C455626-D6D5-47F8-8173-88B63C6B8A24\System\Library\CoreServices\boot.efi</string>
 					<key>Type</key>
 					<string>OSX</string>
 					<key>Volume</key>
-					<string>E196B62A-AA69-433D-87C7-BED583C23051</string>
+					<string>BE74FCF7-0B7C-49F3-9147-01F4042E6842</string>
 				</dict>
 				<dict>
 					<key>Disabled</key>
