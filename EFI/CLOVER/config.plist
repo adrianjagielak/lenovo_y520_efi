@@ -16,8 +16,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change EC0 to EC</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>RUMwXw==</data>
 					<key>Replace</key>
@@ -26,8 +24,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change HDAS to HDEF</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>SERBUw==</data>
 					<key>Replace</key>
@@ -36,8 +32,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change _OSI to XOSI</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X09TSQ==</data>
 					<key>Replace</key>
@@ -46,8 +40,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change _DSM to XDSM</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X0RTTQ==</data>
 					<key>Replace</key>
@@ -56,8 +48,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change Method(_Q11,0,N) to XQ11</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X1ExMQA=</data>
 					<key>Replace</key>
@@ -66,8 +56,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change Method(_Q12,0,N) to XQ12</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X1ExMgA=</data>
 					<key>Replace</key>
@@ -76,8 +64,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change GFX0 to IGPU</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>R0ZYMA==</data>
 					<key>Replace</key>
@@ -86,8 +72,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change HECI to IMEI</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>SEVDSQ==</data>
 					<key>Replace</key>
@@ -96,8 +80,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change SAT0 to SATA</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>U0FUMA==</data>
 					<key>Replace</key>
@@ -106,8 +88,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change Method(PEGP._INI,0,N) to XINI</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X0lOSQBwAA==</data>
 					<key>Replace</key>
@@ -116,8 +96,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change Method(_REG,2,N) to XREG</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>X1JFRwI=</data>
 					<key>Replace</key>
@@ -126,8 +104,6 @@
 				<dict>
 					<key>Comment</key>
 					<string>Change Method(GPRW,2,N) to XPRW</string>
-					<key>Disabled</key>
-					<false/>
 					<key>Find</key>
 					<data>R1BSVwI=</data>
 					<key>Replace</key>
