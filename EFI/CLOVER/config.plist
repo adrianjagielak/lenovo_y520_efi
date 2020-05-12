@@ -241,7 +241,7 @@
 		<key>BooterConfig</key>
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
-		<string>0x67</string>
+		<string>0x00</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
