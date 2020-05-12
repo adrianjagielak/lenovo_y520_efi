@@ -223,8 +223,12 @@
 			<dict>
 				<key>Comment</key>
 				<string>Micro Inc. SD Card Reader - pci14e4,16bc -&gt; pci1217,8621</string>
+				<key>Disabled</key>
+				<false/>
 				<key>Find</key>
 				<data>cGNpMTRlNCwxNmJj</data>
+				<key>InfoPlistPatch</key>
+				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.AppleSDXC</string>
 				<key>Replace</key>
@@ -255,7 +259,7 @@
 	<key>SystemParameters</key>
 	<dict>
 		<key>InjectKexts</key>
-		<string>Detect</string>
+		<string>Yes</string>
 	</dict>
 </dict>
 </plist>
