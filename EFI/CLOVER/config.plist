@@ -129,7 +129,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>2</integer>
+		<integer>1</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>
