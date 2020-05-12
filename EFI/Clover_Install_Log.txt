@@ -1,10 +1,10 @@
 
-Clover EFI installer log - Mon May 11 15:57:29 CEST 2020
-Installer version: r5116 (commit: 8f5a4616b) EFI bootloader
+Clover EFI installer log - Tue May 12 13:12:18 CEST 2020
+Installer version: r5117 (commit: a4ac6daf9) EFI bootloader
 ======================================================
-/dev/disk0 (internal):
+/dev/disk0 (internal, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:      GUID_partition_scheme                         256.1 GB   disk0
+   0:      GUID_partition_scheme                        *256.1 GB   disk0
    1:                        EFI EFI                     209.7 MB   disk0s1
    2:                 Apple_APFS Container disk1         183.8 GB   disk0s2
    3:       Microsoft Basic Data Bez nazwy               32.0 GB    disk0s3
@@ -15,25 +15,27 @@ Installer version: r5116 (commit: 8f5a4616b) EFI bootloader
    #:                       TYPE NAME                    SIZE       IDENTIFIER
    0:      APFS Container Scheme -                      +183.8 GB   disk1
                                  Physical Store disk0s2
-   1:                APFS Volume Mojave                  156.3 GB   disk1s1
-   2:                APFS Volume Preboot                 44.3 MB    disk1s2
-   3:                APFS Volume Recovery                510.6 MB   disk1s3
-   4:                APFS Volume VM                      24.6 KB    disk1s4
+   1:                APFS Volume Catalina – dane         25.7 GB    disk1s1
+   2:                APFS Volume Preboot                 82.4 MB    disk1s2
+   3:                APFS Volume Recovery                528.6 MB   disk1s3
+   4:                APFS Volume VM                      1.1 GB     disk1s4
+   5:                APFS Volume Catalina                11.1 GB    disk1s5
 
-/dev/disk2 (external, physical):
-   #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:     FDisk_partition_scheme                        *16.1 GB    disk2
-   1:                 DOS_FAT_32 CLOVER EFI              209.7 MB   disk2s1
-   2:                  Apple_HFS install_osx             15.9 GB    disk2s2
-
+Target volume /Volumes/Catalina on disk1 is APFS on physical store disk0s2
 ======================================================
 Backing up EFI files
 
 ======================================================
 Installing BootSectors/BootLoader
 
-Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /Volumes/CLOVER EFI
-Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /Volumes/CLOVER EFI
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+======================================================
+Installing RC Scripts
+
+Installing RC scripts on target volume '/'
+
+Activating /etc/rc.boot.d/70.disable_sleep_proxy_client.local rc script
 
 Theme 'Clovy' (defined in config.plist) not found !
 Using default theme 'random'
