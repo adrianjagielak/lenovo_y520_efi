@@ -1,27 +1,30 @@
 
-Clover EFI installer log - Thu Oct 31 02:14:58 PDT 2019
-Installer version: v2.5k r5098 EFI bootloader
+Clover EFI installer log - Mon May 11 15:57:29 CEST 2020
+Installer version: r5116 (commit: 8f5a4616b) EFI bootloader
 ======================================================
-/dev/disk0 (internal, physical):
+/dev/disk0 (internal):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:      GUID_partition_scheme                        *84.8 GB    disk0
+   0:      GUID_partition_scheme                         256.1 GB   disk0
    1:                        EFI EFI                     209.7 MB   disk0s1
-   2:                 Apple_APFS Container disk1         84.6 GB    disk0s2
+   2:                 Apple_APFS Container disk1         183.8 GB   disk0s2
+   3:       Microsoft Basic Data Bez nazwy               32.0 GB    disk0s3
+   4:       Microsoft Basic Data WINEFI                  108.0 MB   disk0s4
+   5:       Microsoft Basic Data Windos                  39.9 GB    disk0s5
 
 /dev/disk1 (synthesized):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:      APFS Container Scheme -                      +84.6 GB    disk1
+   0:      APFS Container Scheme -                      +183.8 GB   disk1
                                  Physical Store disk0s2
-   1:                APFS Volume Mojave 10.14.3 by Te... 17.7 GB    disk1s1
-   2:                APFS Volume Preboot                 23.2 MB    disk1s2
-   3:                APFS Volume Recovery                519.6 MB   disk1s3
-   4:                APFS Volume VM                      2.1 GB     disk1s4
+   1:                APFS Volume Mojave                  156.3 GB   disk1s1
+   2:                APFS Volume Preboot                 44.3 MB    disk1s2
+   3:                APFS Volume Recovery                510.6 MB   disk1s3
+   4:                APFS Volume VM                      24.6 KB    disk1s4
 
 /dev/disk2 (external, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
-   0:     FDisk_partition_scheme                        *15.4 GB    disk2
+   0:     FDisk_partition_scheme                        *16.1 GB    disk2
    1:                 DOS_FAT_32 CLOVER EFI              209.7 MB   disk2s1
-   2:                  Apple_HFS install_osx             15.2 GB    disk2s2
+   2:                  Apple_HFS install_osx             15.9 GB    disk2s2
 
 ======================================================
 Backing up EFI files
