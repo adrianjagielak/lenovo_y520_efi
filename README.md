@@ -6,6 +6,7 @@ This is my personal OpenCore EFI for my current hackintosh (dual-boot macOS Big 
 Working:
 - iGPU
 - Intel Wifi
+- Bluetooth (tested only Apple devices, other should work too)
 - Audio
 - Camera
 - Keyboard & touchpad
