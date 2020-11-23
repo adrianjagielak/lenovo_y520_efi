@@ -1024,7 +1024,7 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02716300GUJ1JHCB</string>
+			<string>C02742300GUJ1JHFB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1034,9 +1034,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TLHZ3HTD5</string>
+			<string>C02WG0JJHTD5</string>
 			<key>SystemUUID</key>
-			<string>29CDFEFC-BE6F-47E3-8DE5-6A601D08371B</string>
+			<string>1FCE86B5-F661-47E5-B99E-36D4398B9192</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
