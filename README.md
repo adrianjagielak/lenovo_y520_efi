@@ -11,6 +11,7 @@ Working:
 - Camera
 - Keyboard & touchpad
 - Brightness control
+- FileVault
 
 Not working:
 - dGPU (Nvidia GTX1060)
