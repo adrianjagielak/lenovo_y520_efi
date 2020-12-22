@@ -13,7 +13,7 @@ Working:
 - Brightness control
 - FileVault
 
-Can work, help wanted
+Can work, help wanted:
 - [USB-C video](https://github.com/adrianjagielak/lenovo_y520_efi/issues/6)
 
 Not working:
