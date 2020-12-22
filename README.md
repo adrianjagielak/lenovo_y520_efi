@@ -13,6 +13,9 @@ Working:
 - Brightness control
 - FileVault
 
+Can work, help wanted
+- [USB-C video](https://github.com/adrianjagielak/lenovo_y520_efi/issues/6)
+
 Not working:
 - dGPU (Nvidia GTX1060)
-- HDMI/DisplayPort/Usb-C video (connected to dGPU)
+- HDMI/DisplayPort video (connected to dGPU)
