@@ -1,7 +1,7 @@
-My Personal Big Sur 11.1 EFI for Lenovo Legion Y520
+My Personal Big Sur 11.2.3 EFI for Lenovo Legion Y520
 =============
 
-This is my personal OpenCore EFI for my current hackintosh (dual-boot macOS Big Sur 11.1 and Windows 10). If you want a tutorial how to use it in your system or you have any questions please open an issue :)
+This is my personal OpenCore EFI for my current hackintosh (dual-boot macOS Big Sur 11.2.3 and Windows 10). If you want a tutorial how to use it in your system or you have any questions please open an issue :)
 
 Working:
 - iGPU
